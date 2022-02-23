@@ -1,0 +1,27 @@
+[
+    {
+        // Information about the contributor
+        "author": {
+            "avatar": "https://avatars.githubusercontent.com/u/79837361?s=60&v=4",
+            "hovercard_url": "/users/david-ruitter/hovercard",
+            "id": 79837361,
+            "login": "david-ruitter",
+            "path": "/david-ruitter"
+        },
+        // Total number of commits done by the contributor
+        "total": 1,
+        // Information about the weekly activity in a timespan 
+        "weeks": [
+            {
+                // Timestamp specifies week
+                "w": 1630800000,
+                // Added Lines
+                "a": 0,
+                // Commits
+                "c": 0,
+                // Deleted Lines
+                "d": 0
+            }
+        ]
+    }
+]
